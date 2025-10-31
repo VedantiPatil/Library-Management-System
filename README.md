@@ -99,8 +99,4 @@ Add dark/light themes for GUI.
 Vedanti Patil
 📧 vedantipatil06@gmail.com
 🌐 https://github.com/VedantiPatil
-
-⭐ If you like this project, please give it a star on GitHub!
-🌐 https://github.com/VedantiPatil
-
 ⭐ If you like this project, please give it a star on GitHub!
